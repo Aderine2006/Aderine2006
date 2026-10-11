@@ -5,7 +5,7 @@
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:09090F,35:512BD4,70:00D9FF,100:09090F&text=ADERINE%20PEREZ&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=AI%20ENGINEER%20%7C%20FULL-STACK%20DEVELOPER&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:09090F,35:512BD4,70:00D9FF,100:09090F&text=ADERINE%20PEREZ%20VICTOR%JOANS&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=AI%20ENGINEER%20%7C%20FULL-STACK%20DEVELOPER&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
 
   <br/>
 
